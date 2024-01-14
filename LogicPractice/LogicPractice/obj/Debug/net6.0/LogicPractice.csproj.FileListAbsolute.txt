@@ -1,0 +1,15 @@
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\bin\Debug\net6.0\LogicPractice.exe
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\bin\Debug\net6.0\LogicPractice.deps.json
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\bin\Debug\net6.0\LogicPractice.runtimeconfig.json
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\bin\Debug\net6.0\LogicPractice.dll
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\bin\Debug\net6.0\LogicPractice.pdb
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.csproj.AssemblyReference.cache
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.AssemblyInfoInputs.cache
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.AssemblyInfo.cs
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.csproj.CoreCompileInputs.cache
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.dll
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\refint\LogicPractice.dll
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.pdb
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\LogicPractice.genruntimeconfig.cache
+D:\CollegeProjects\TakeMeHike\LogicPractice\LogicPractice\obj\Debug\net6.0\ref\LogicPractice.dll
